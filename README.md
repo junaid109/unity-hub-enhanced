@@ -1,7 +1,7 @@
-## Unity Hub React Native for Windows
+# Unity Hub React Native for Windows
 This is an open-source project that is a revamp of the original Unity Hub software. It is built with React Native for Windows, providing a modern and streamlined user interface for managing Unity projects.
 
-## Features
+# Features
 - Modern and streamlined UI for managing Unity projects.
 - Easy project creation and management.
 - Access to the latest Unity versions and release notes.
@@ -25,7 +25,7 @@ This is an open-source project that is a revamp of the original Unity Hub softwa
 # License
 - This project is licensed under the MIT License. You are free to use and modify the code as you see fit, as long as you give credit.
 
-## Acknowledgements
+# Acknowledgements
 This project is built upon the work of many open-source projects and individuals who have shared their knowledge and expertise in the React Native and Windows communities. We are grateful for their contributions and hope that this project serves as a helpful reference for others looking to build similar applications.
 
 
