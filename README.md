@@ -1,4 +1,4 @@
-# Unity Hub React Native for Windows
+# Unity Hub Enhanced
 This is an open-source project that is a revamp of the original Unity Hub software. It is built with React Native for Windows, providing a modern and streamlined user interface for managing Unity projects.
 
 # Features
