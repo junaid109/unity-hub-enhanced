@@ -21,6 +21,8 @@ This is an open-source project that is a revamp of the original Unity Hub softwa
 
 ![image](https://user-images.githubusercontent.com/8495748/225570995-927bc811-30d1-4534-a336-c7dd40635e9c.png)
 
+![image](https://user-images.githubusercontent.com/8495748/225571479-8c2b706d-46d1-4c36-b67f-62304a834585.png)
+
 
 # Contributing
 - We welcome contributions to the project! If you would like to contribute, please follow these steps:
